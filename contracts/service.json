@@ -1,0 +1,5 @@
+{
+  "service": "跨境关税规则响应服务",
+  "contractVersion": "2026-09",
+  "healthPath": "/health"
+}
